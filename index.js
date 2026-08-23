@@ -7,7 +7,8 @@ const { GoalBlock } = goals;
 const config = require("./settings.json");
 const express = require("express");
 const https = require("https");
-
+const http = require("http");                   
+const PORT = process.env.PORT || 5000;
 // ============================================================
 // EXPRESS SERVER - Keep Render/Aternos alive
 // ============================================================
