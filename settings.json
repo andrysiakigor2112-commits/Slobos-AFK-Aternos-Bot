@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "FlippyFlapCraftBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ShadowCraftd.aternos.me",
+    "ip": "FlippyFlapCraft.aternos.me",
     "port": 37049,
     "version": "",
     "try-creative": false
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "FlippyFlapCraft.aternos.me",
         "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
