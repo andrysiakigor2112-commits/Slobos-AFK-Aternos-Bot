@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "FlippyFlapCraft.aternos.me",
-    "port": 57466,
+    "port": 10000,
     "version": "1.21.4",
     "try-creative": false
   },
