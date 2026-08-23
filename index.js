@@ -1,15 +1,3 @@
-const http = require('http')
-
-const PORT = process.env.PORT
-
-const server = http.createServer((req, res) => {
-  res.writeHead(200, { 'Content-Type': 'text/plain' })
-  res.end('Bot is running')
-})
-
-server.listen(PORT, () => {
-  console.log(`[Server] HTTP server started on port ${PORT}`)
-})
 "use strict";
 
 const { addLog, getLogs } = require("./logger");
